@@ -1,0 +1,2 @@
+call write.py
+pause
